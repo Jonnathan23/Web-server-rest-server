@@ -19,6 +19,7 @@
     "typescript": "^5.9.3"
   },
   "dependencies": {
+    "env-var": "^7.5.0",
     "express": "^5.1.0"
   }
 }
